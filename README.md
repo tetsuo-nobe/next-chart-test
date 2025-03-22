@@ -1,4 +1,4 @@
-## Next.js で　Chart を表示するサンプル
+## Next.js で Chart を表示するサンプル
 
 * Chart のライブラリは多数あるが、このサンプルでは react-google-charts を使用する
   - https://www.react-google-charts.com/
